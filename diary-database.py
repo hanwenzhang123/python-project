@@ -1,3 +1,5 @@
+#!/usr/bin/env pyhthon 3
+
 from collections import OrderedDict
 import datetime
 import sys
